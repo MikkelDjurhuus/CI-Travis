@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 14 04:22:05 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-a468-6960-000005b0a840 
+on database directory memory:C:\Users\Theko\Desktop\test\08 CI Travis\mockexercise_auth\usersDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Theko/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=C:\Users\Theko\Desktop\test\08 CI Travis\mockexercise_auth
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
