@@ -9,3 +9,9 @@ services:
    - mysql
 before_install:
   - mysql -e 'CREATE DATABASE usersDB;'
+after_success:
+  - surge --project ./target/site --domain CITest.surge.sh
+after_failure:
+  #Remove documentation for a failing project
+  - surge teardown CITest.surge.sh
+

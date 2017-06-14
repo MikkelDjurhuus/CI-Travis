@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Jun 14 05:23:37 CEST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-a4a0-c1b8-00000ca39458 
+Wed Jun 14 05:32:36 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-a4a8-fa00-00000ca042e0 
 on database directory memory:C:\Users\Theko\Desktop\test\08 CI Travis\mockexercise_auth\usersDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/Theko/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
